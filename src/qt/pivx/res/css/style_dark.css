@@ -351,11 +351,11 @@ HH       TOP BAR
 HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH*/
 
 *[cssClass="container-top"] {
-    background-color: #161515;
+    background-color: #0000FF;
 }
 
 *[cssClass="container-topbar-no-image"] {
-    background-color: #161515;
+    background-color: #0000FF;
 }
 
 *[cssClass="text-title-topbar"] {
@@ -375,7 +375,7 @@ HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH*/
 
 *[cssClass="container-qr"] {
   border-radius: 2px;
-  background-color: #161515;
+  background-color: #0000FF;
 }
 
 QPushButton[cssClass="btn-qr"] {
